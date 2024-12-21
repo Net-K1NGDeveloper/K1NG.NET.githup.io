@@ -1,0 +1,43 @@
+
+.header-title{
+    margin-top: 2rem;
+}
+.header-title h1{
+    text-indent: 1rem;
+}
+.personal-info{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 1rem;
+}
+.personal-info img{
+    width: 200px;
+    border-radius: 1rem;
+}
+.logo-language{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 1rem;
+}
+.logo-language img{
+    width: 150px;
+}
+.line{
+    width: 100%;
+    height: 4px;
+    background-color: rgb(82, 7, 7);
+    border-radius: 2px;
+}
+.line-logo-top{
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.line-language{
+    width: 300px;
+    height: 5px;
+    background-color: rgb(48, 222, 77);
+    border-radius: 1rem;
+}
